@@ -1,4 +1,4 @@
-xport const spacing = Object.freeze({
+export const spacing = Object.freeze({
     sm: 8,
     md: 16,
     lg: 24,
